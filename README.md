@@ -1,7 +1,7 @@
 # Testing with React Testing Library
 
-- see src/components/show-more for an example of a component and test
-- add another component and test eg 
+- see src/components/show-more for an example of a component. You can fill out the test for it
+- another component is in src/components/form, with a blank test to fill out
 
 ## To run the app
 
