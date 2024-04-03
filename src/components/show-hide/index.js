@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState } from "react";
 
 export const ShowHide = ({ children }) => {
   const [isShown, setIsShown] = useState(false);
@@ -11,4 +11,4 @@ export const ShowHide = ({ children }) => {
       {isShown && children}
     </div>
   );
-}
+};
